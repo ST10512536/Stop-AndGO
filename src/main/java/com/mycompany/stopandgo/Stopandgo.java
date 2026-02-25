@@ -16,13 +16,16 @@ public class Stopandgo {
         System.out.println("$  Stop  $             #    GO   #");
         System.out.println("$        $             #         #");
         System.out.println("  $$$$$$                 ####### ");
-        System.out.println("     |                       |");
-        System.out.println("     |                       |");
-        System.out.println("     |                       |");
-        System.out.println("     |                       |");
-        System.out.println("     |                       |");
-        System.out.println("     |                       |");
-        System.out.println("     |                       |");
+        System.out.println("     ||                      ||");
+        System.out.println("     ||                      ||");
+        System.out.println("     ||                      ||");
+        System.out.println("     ||                      ||");
+        System.out.println("     ||                      ||");
+        System.out.println("     ||                      ||");
+        System.out.println("     ||                      ||");
+        System.out.println("  |_______|               |_____|");
+        System.out.println("|-------------------------------------|");
+        System.out.println("|-------------------------------------|");
 
     }
 }
